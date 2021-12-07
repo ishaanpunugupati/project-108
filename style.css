@@ -1,0 +1,40 @@
+body{
+    font-family: 'Hina Mincho', serif;
+    background-color: antiquewhite;
+}
+
+head{
+    background-color: cadetblue;
+    color: white;
+}
+
+p{
+    font-weight: bold;
+    font-size: large;
+}
+
+button{
+    margin-top: 10px;
+    width: 100px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+footer{
+    background-color: antiquewhite;
+    color: rgb(0, 26, 255);
+    width: 200px;
+    font-size: large;
+    text-align: center;
+
+}
+
+   img { 
+      display: block;
+      width: 30%;
+      margin-left: auto;
+      margin-right: auto;
+   }
+.center-justified {
+    text-align: justify;
+    text-align-last: center;
+}
